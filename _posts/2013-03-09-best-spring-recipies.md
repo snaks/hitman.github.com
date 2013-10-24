@@ -1,6 +1,7 @@
 ---
-title: Consectetur Elit
+title: This is a new title
 layout: post
+published: true
 ---
 
 Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
